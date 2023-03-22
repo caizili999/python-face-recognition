@@ -36,7 +36,8 @@ pyqt5-tools                  5.15.4.3.2**
 辅助开发QT-designer
 ![image](https://user-images.githubusercontent.com/89065432/226945877-aaa46b45-8700-4b16-bfff-f2abe10f0715.png)
 ![image](https://user-images.githubusercontent.com/89065432/226945836-70001d06-592d-4f3b-a66a-ae3a0c821406.png)
-![image](https://user-images.githubusercontent.com/89065432/226946775-276e35eb-e828-4a00-83f7-0027326e2633.png)
+![image](https://user-images.githubusercontent.com/89065432/226947812-e520cbe6-5a3b-4491-8ba4-e7b5c0688459.png)
+
 # 代码部分
 
 ## 核心代码
