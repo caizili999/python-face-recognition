@@ -1,9 +1,6 @@
-# Author BIGBOSS
-# April 2022
+# Author caizili
+# April 2023
 # IOT人脸识别签到系统
-# WX：BIGBOSSyifi
-# Mail：bigbossyifi@gmail.com
-# *-
 
 import sys
 from PyQt5.uic import loadUi
