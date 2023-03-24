@@ -1,6 +1,15 @@
-# Author caizili
-# 2023.3.31
-# IOT人脸识别签到系统
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+'''
+@File    :   out_window.py
+@Time    :   2023/03/24 14:27:51
+@Author  :   Caizili 
+@Github  :   https://github.com/caizili999
+@QQ      :   760308795
+@叙述    :   欢迎围观,多多指导,多多star,多多fork,多多交流
+'''
+
+
 
 from PyQt5.QtGui import QImage, QPixmap
 from PyQt5.uic import loadUi
