@@ -1,5 +1,5 @@
 # Author caizili
-# April 2023
+# 2023.3.31
 # IOT人脸识别签到系统
 
 from PyQt5.QtGui import QImage, QPixmap
