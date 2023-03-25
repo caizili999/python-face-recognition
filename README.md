@@ -1,5 +1,5 @@
 # python-face-recognition
-基友python开发的人脸识别签到test
+基友python开发的人脸识别签到
 # 前言
 
 本项目为IOT实验室人员签到考勤设计，系统实现功能：
