@@ -4,7 +4,7 @@
 @File    :   mainwindow.py
 @Time    :   2023/03/24 14:27:37
 @Author  :   Caizili 
-@Github  :   https://github.com/caizili999-test
+@Github  :   https://github.com/caizili999
 @QQ      :   760308795
 @叙述    :   欢迎围观,多多指导,多多star,多多fork,多多交流
 '''
